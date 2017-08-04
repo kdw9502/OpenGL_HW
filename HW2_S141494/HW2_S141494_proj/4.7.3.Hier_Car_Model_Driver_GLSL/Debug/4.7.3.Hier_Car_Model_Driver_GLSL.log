@@ -1,2 +1,8 @@
-﻿  4.7.3.Hier_Car_Model_Driver_GLSL.vcxproj -> C:\Users\SSD\Desktop\HW2_S141494\HW2_S141494_proj\Debug\4.7.3.Hier_Car_Model_Driver_GLSL.exe
-  4.7.3.Hier_Car_Model_Driver_GLSL.vcxproj -> C:\Users\SSD\Desktop\HW2_S141494\HW2_S141494_proj\Debug\4.7.3.Hier_Car_Model_Driver_GLSL.pdb (Partial PDB)
+﻿  LoadShaders.cpp
+c:\users\ssd\desktop\graphics\hw2_s141494\hw2_s141494_proj\4.7.3.hier_car_model_driver_glsl\shaders\loadshaders.cpp(11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+  4.7.3.Hier_Car_Model_Driver_GLSL.cpp
+c:\users\ssd\desktop\graphics\hw2_s141494\hw2_s141494_proj\4.7.3.hier_car_model_driver_glsl\4.7.3.hier_car_model_driver_glsl.cpp(429): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+  코드를 생성하고 있습니다...
+  4.7.3.Hier_Car_Model_Driver_GLSL.vcxproj -> C:\Users\SSD\Desktop\graphics\HW2_S141494\HW2_S141494_proj\Debug\4.7.3.Hier_Car_Model_Driver_GLSL.exe
+  4.7.3.Hier_Car_Model_Driver_GLSL.vcxproj -> C:\Users\SSD\Desktop\graphics\HW2_S141494\HW2_S141494_proj\Debug\4.7.3.Hier_Car_Model_Driver_GLSL.pdb (Partial PDB)
